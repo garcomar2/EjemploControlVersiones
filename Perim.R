@@ -8,5 +8,8 @@ AreaRectangulo <- function(m,n){
   return(m*n)
 }
 LongitudCircunf <- function(R){
-  return(2*R*pi)
+  return(2*R*3.14159)
+}
+PerimetroRectangulo <- function(X){
+  return(4*X)
 }
