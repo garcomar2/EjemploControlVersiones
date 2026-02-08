@@ -1,4 +1,4 @@
-AreaCuadrado <- function(L){
+PerimetroCuadrado <- function(L){
   return(4*L)
 }
 AreaTriangulo <- function(b,a){
@@ -6,4 +6,7 @@ AreaTriangulo <- function(b,a){
 }
 AreaRectangulo <- function(m,n){
   return(m*n)
+}
+LongitudCircunf <- function(R){
+  return(2*R*pi)
 }
