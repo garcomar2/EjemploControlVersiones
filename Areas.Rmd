@@ -35,3 +35,9 @@ r <- 0.5
 Area <- pi*r^2
 ```
 
+## Área cuadrado
+```{r}
+Lado <-3
+Area cuadrado <- Lado^2
+```
+
