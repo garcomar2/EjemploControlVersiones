@@ -10,3 +10,6 @@ AreaRectangulo <- function(m,n){
 LongitudCircunf <- function(R){
   return(2*R*pi)
 }
+AreaTrapecio <- function(b,B,H){
+  return(((B+b)*H)/2)
+}
