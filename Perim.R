@@ -13,3 +13,6 @@ LongitudCircunf <- function(R){
 AreaTrapecio <- function(b,B,H){
   return(((B+b)*H)/2)
 }
+AreaPerimetro <- function(L,l){
+  return(2*(L+l))
+}
